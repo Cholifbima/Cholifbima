@@ -141,17 +141,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315nmqqtja4thr53eqk6kxnpaubm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/315nmqqtja4thr53eqk6kxnpaubm)
 
-### 🎧 My Music Taste
-🎵 **Genres:** Lo-fi Hip Hop, Electronic, Chill Beats, Jazz
-🎧 **Coding Vibes:** Focus music, Instrumental, Ambient
-🎼 **Favorites:** Nujabes, Emancipator, Bonobo, Ólafur Arnalds
-☕ **Perfect Combo:** Good code + Great music
-
-### 🎵 Find Me On
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/cholifbima)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
-[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/cholifbima)
-
 </div>
 
 ## 📝 Latest Blog Posts
