@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Game</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Courier New', monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .game-container {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        .game-title {
+            color: white;
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .game-board {
+            display: grid;
+            grid-template-columns: repeat(4, 80px);
+            grid-gap: 10px;
+            margin: 20px auto;
+            justify-content: center;
+        }
+        
+        .game-tile {
+            width: 80px;
+            height: 80px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            user-select: none;
+        }
+        
+        .game-tile:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: scale(1.05);
+        }
+        
+        .game-tile.revealed {
+            background: rgba(46, 158, 247, 0.8);
+            border-color: #2E9EF7;
+        }
+        
+        .game-tile.matched {
+            background: rgba(76, 175, 80, 0.8);
+            border-color: #4CAF50;
+        }
+        
+        .game-stats {
+            color: white;
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        
+        .reset-btn {
+            background: #2E9EF7;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: background 0.3s ease;
+        }
+        
+        .reset-btn:hover {
+            background: #1976D2;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <h1 class="game-title">🎮 Memory Game</h1>
+        <p style="color: white; margin-bottom: 20px;">Match the programming language pairs!</p>
+        
+        <div class="game-board" id="gameBoard"></div>
+        
+        <div class="game-stats">
+            <div>Moves: <span id="moves">0</span></div>
+            <div>Matches: <span id="matches">0</span></div>
+        </div>
+        
+        <button class="reset-btn" onclick="initGame()">New Game</button>
+    </div>
+
+    <script>
+        const symbols = ['🐍', '⚛️', '☕', '🔥', '💎', '🦀', '🎯', '⚡'];
+        let gameBoard = [];
+        let flippedCards = [];
+        let moves = 0;
+        let matches = 0;
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        function createBoard() {
+            const pairs = [...symbols, ...symbols];
+            return shuffle(pairs);
+        }
+
+        function renderBoard() {
+            const boardElement = document.getElementById('gameBoard');
+            boardElement.innerHTML = '';
+            
+            gameBoard.forEach((symbol, index) => {
+                const tile = document.createElement('div');
+                tile.className = 'game-tile';
+                tile.dataset.index = index;
+                tile.addEventListener('click', () => flipCard(index));
+                boardElement.appendChild(tile);
+            });
+        }
+
+        function flipCard(index) {
+            const tile = document.querySelector(`[data-index="${index}"]`);
+            
+            if (flippedCards.length < 2 && !tile.classList.contains('revealed') && !tile.classList.contains('matched')) {
+                tile.textContent = gameBoard[index];
+                tile.classList.add('revealed');
+                flippedCards.push(index);
+                
+                if (flippedCards.length === 2) {
+                    moves++;
+                    document.getElementById('moves').textContent = moves;
+                    
+                    setTimeout(checkMatch, 1000);
+                }
+            }
+        }
+
+        function checkMatch() {
+            const [first, second] = flippedCards;
+            const firstTile = document.querySelector(`[data-index="${first}"]`);
+            const secondTile = document.querySelector(`[data-index="${second}"]`);
+            
+            if (gameBoard[first] === gameBoard[second]) {
+                firstTile.classList.add('matched');
+                secondTile.classList.add('matched');
+                matches++;
+                document.getElementById('matches').textContent = matches;
+                
+                if (matches === symbols.length) {
+                    setTimeout(() => {
+                        alert(`🎉 Congratulations! You won in ${moves} moves!`);
+                    }, 500);
+                }
+            } else {
+                firstTile.classList.remove('revealed');
+                secondTile.classList.remove('revealed');
+                firstTile.textContent = '';
+                secondTile.textContent = '';
+            }
+            
+            flippedCards = [];
+        }
+
+        function initGame() {
+            gameBoard = createBoard();
+            flippedCards = [];
+            moves = 0;
+            matches = 0;
+            
+            document.getElementById('moves').textContent = moves;
+            document.getElementById('matches').textContent = matches;
+            
+            renderBoard();
+        }
+
+        // Initialize the game when page loads
+        initGame();
+    </script>
+</body>
+</html>

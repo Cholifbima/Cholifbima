@@ -1,0 +1,64 @@
+/* Custom CSS for GitHub Profile README */
+
+.profile-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.typing-animation {
+    font-family: 'Fira Code', monospace;
+    font-size: 24px;
+    color: #2E9EF7;
+}
+
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.section-divider {
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #2E9EF7, transparent);
+    margin: 30px 0;
+}
+
+.animated-border {
+    border: 2px solid;
+    border-image: linear-gradient(45deg, #2E9EF7, #764ba2) 1;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.glow-effect {
+    box-shadow: 0 0 20px rgba(46, 158, 247, 0.3);
+    transition: box-shadow 0.3s ease;
+}
+
+.glow-effect:hover {
+    box-shadow: 0 0 30px rgba(46, 158, 247, 0.6);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .profile-header {
+        background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    }
+    
+    .section-divider {
+        background: linear-gradient(90deg, transparent, #4a9eff, transparent);
+    }
+}

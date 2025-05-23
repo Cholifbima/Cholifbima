@@ -1,0 +1,57 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "username": "YourUsername",
+    "email": "your.email@example.com",
+    "portfolio": "https://yourportfolio.com",
+    "location": "Your Location",
+    "bio": "Passionate developer who loves to code and learn new technologies"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "twitter": "https://twitter.com/yourhandle",
+    "instagram": "https://instagram.com/yourhandle",
+    "dev": "https://dev.to/yourusername",
+    "medium": "https://medium.com/@yourusername",
+    "youtube": "https://youtube.com/c/yourchannel",
+    "discord": "YourDiscord#1234"
+  },
+  "technologies": {
+    "languages": ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+    "frontend": ["React", "Vue.js", "HTML5", "CSS3", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "Django", "Flask"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL"],
+    "tools": ["Git", "Docker", "AWS", "VS Code"]
+  },
+  "features": {
+    "snake_animation": true,
+    "github_stats": true,
+    "typing_animation": true,
+    "spotify_widget": true,
+    "blog_posts": true,
+    "quotes": true,
+    "visitor_counter": true,
+    "trophies": true,
+    "activity_graph": true
+  },
+  "theme": {
+    "primary_color": "#2E9EF7",
+    "secondary_color": "#764ba2",
+    "github_theme": "tokyonight"
+  },
+  "content": {
+    "typing_messages": [
+      "Welcome to my GitHub Profile!",
+      "I'm a passionate developer",
+      "Always learning new technologies",
+      "Let's build something amazing!",
+      "Open to collaborations!"
+    ],
+    "current_focus": {
+      "learning": ["Machine Learning", "Cloud Architecture", "DevOps"],
+      "building": ["Personal Portfolio", "Open Source Projects"],
+      "reading": ["Clean Code", "System Design"],
+      "goals": ["Contribute to major open source projects", "Build scalable applications"]
+    }
+  }
+}
