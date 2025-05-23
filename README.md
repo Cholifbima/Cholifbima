@@ -88,11 +88,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cholifbima&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🐍 Contribution Snake
 
