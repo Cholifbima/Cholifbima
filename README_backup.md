@@ -22,7 +22,7 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **cholifbima@example.com**
+- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **I love coding and coffee!**
 
 <br clear="right"/>
@@ -87,6 +87,8 @@
 
 </div>
 
+
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -119,11 +121,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cholif-bima-a172461b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cholifbima.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cholifbima@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -139,18 +141,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315nmqqtja4thr53eqk6kxnpaubm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/315nmqqtja4thr53eqk6kxnpaubm)
-
-### 🎧 My Music Taste
-🎵 **Genres:** Lo-fi Hip Hop, Electronic, Chill Beats, Jazz
-🎧 **Coding Vibes:** Focus music, Instrumental, Ambient
-🎼 **Favorites:** Nujabes, Emancipator, Bonobo, Ólafur Arnalds
-☕ **Perfect Combo:** Good code + Great music
-
-### 🎵 Find Me On
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/cholifbima)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
-[![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/cholifbima)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 </div>
 
@@ -163,12 +154,14 @@
 
 <div align="center">
 
-| 🎯 Focus Area | 📋 Details |
-|---------------|------------|
-| 🧠 **Learning** | Machine Learning, Cloud Architecture, DevOps |
-| 🔨 **Building** | Personal Portfolio, Open Source Projects |
-| 📚 **Reading** | Clean Code, System Design |
-| 🎯 **Goals** | Contribute to major open source projects, Build scalable applications |
+```javascript
+const currentFocus = {
+    learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
+    building: ["Personal Portfolio", "Open Source Projects"],
+    reading: ["Clean Code", "System Design"],
+    goals: ["Contribute to major open source projects", "Build scalable applications"]
+};
+```
 
 </div>
 
@@ -202,3 +195,21 @@
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+**Cholifbima/Cholifbima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> f7f5687464edb033f4840e839e4990a45e86b294
