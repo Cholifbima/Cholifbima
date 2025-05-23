@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Hi there! 👋 I'm Cholif Bima
@@ -71,7 +72,7 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cholifbima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cholifbima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cholifbima&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -199,3 +200,21 @@ const currentFocus = {
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+**Cholifbima/Cholifbima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> f7f5687464edb033f4840e839e4990a45e86b294
