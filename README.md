@@ -11,12 +11,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://giffiles.alphacoders.com/209/209273.gif" width="600" height="300"/>
 </div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
 
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **new technologies**
