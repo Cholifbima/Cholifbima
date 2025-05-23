@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # Hi there! 👋 I'm Cholif Bima
