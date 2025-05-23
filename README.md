@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hi there! 👋 I'm Cholif Bima
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cholifbima&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -90,7 +90,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake.svg">
@@ -102,7 +102,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cholifbima&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -110,7 +110,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cholifbima&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -130,7 +130,7 @@
 ## 💡 Random Dev Quote
 
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -138,7 +138,7 @@
 ## 🎵 Currently Playing
 
 <div align="center">
-  
+
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 </div>
@@ -152,14 +152,12 @@
 
 <div align="center">
 
-```javascript
-const currentFocus = {
-    learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-    building: ["Personal Portfolio", "Open Source Projects"],
-    reading: ["Clean Code", "System Design"],
-    goals: ["Contribute to major open source projects", "Build scalable applications"]
-};
-```
+| 🎯 Focus Area | 📋 Details |
+|---------------|------------|
+| 🧠 **Learning** | Machine Learning, Cloud Architecture, DevOps |
+| 🔨 **Building** | Personal Portfolio, Open Source Projects |
+| 📚 **Reading** | Clean Code, System Design |
+| 🎯 **Goals** | Contribute to major open source projects, Build scalable applications |
 
 </div>
 
@@ -177,7 +175,7 @@ const currentFocus = {
 ## 🎮 When I'm not coding
 
 <div align="center">
-  
+
 🎵 Listening to music | 🎮 Gaming | 📚 Reading tech blogs | ☕ Coffee enthusiast | 🌱 Learning new frameworks
 
 </div>
@@ -185,8 +183,8 @@ const currentFocus = {
 ---
 
 <div align="center">
-  
-### 💖 Thanks for visiting my profile! 
+
+### 💖 Thanks for visiting my profile!
 
 ![Visitor Count](https://profile-counter.glitch.me/Cholifbima/count.svg)
 
