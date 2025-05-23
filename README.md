@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Hi there! 👋 I'm Cholif Bima
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -22,7 +22,7 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **cholifbima@example.com**
 - ⚡ Fun fact: **I love coding and coffee!**
 
 <br clear="right"/>
@@ -82,17 +82,15 @@
 </div>
 
 <div align="center">
-
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cholifbima&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
-
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake.svg">
@@ -104,7 +102,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cholifbima&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -112,7 +110,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-
+  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cholifbima&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -121,18 +119,18 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cholif-bima-a172461b3)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cholifbima.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cholifbima@example.com)
 
 </div>
 
 ## 💡 Random Dev Quote
 
 <div align="center">
-
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -140,7 +138,7 @@
 ## 🎵 Currently Playing
 
 <div align="center">
-
+  
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 </div>
@@ -179,7 +177,7 @@ const currentFocus = {
 ## 🎮 When I'm not coding
 
 <div align="center">
-
+  
 🎵 Listening to music | 🎮 Gaming | 📚 Reading tech blogs | ☕ Coffee enthusiast | 🌱 Learning new frameworks
 
 </div>
@@ -187,29 +185,11 @@ const currentFocus = {
 ---
 
 <div align="center">
-
-### 💖 Thanks for visiting my profile!
+  
+### 💖 Thanks for visiting my profile! 
 
 ![Visitor Count](https://profile-counter.glitch.me/Cholifbima/count.svg)
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
-=======
-## Hi there 👋
-
-<!--
-**Cholifbima/Cholifbima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> f7f5687464edb033f4840e839e4990a45e86b294
