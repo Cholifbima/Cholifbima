@@ -22,7 +22,7 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **cholifbima@example.com**
+- 📫 How to reach me: **cholifbima@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee!**
 
 <br clear="right"/>
