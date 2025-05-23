@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Cholif Bima
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Always+learning+new+technologies;Let's+build+something+amazing!;Open+to+collaborations!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" />
+<img src="https://komarev.com/ghpvc/?username=Cholifbima&label=Profile%20views&color=0e75b6&style=flat" alt="Cholifbima" />
 
 </div>
 
@@ -71,10 +71,10 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cholifbima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cholifbima&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>
@@ -83,13 +83,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cholifbima&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourUsername&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cholifbima&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -98,9 +98,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cholifbima/Cholifbima/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cholifbima&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cholifbima&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -174,7 +174,7 @@ const currentFocus = {
 <div align="center">
 
 ### 🕹️ Play a Memory Game!
-[![Play Game](https://img.shields.io/badge/🎮_Play_Memory_Game-Click_Here-FF6B6B?style=for-the-badge&logo=gamepad)](https://htmlpreview.github.io/?https://github.com/YourUsername/YourUsername/blob/main/assets/game.html)
+[![Play Game](https://img.shields.io/badge/🎮_Play_Memory_Game-Click_Here-FF6B6B?style=for-the-badge&logo=gamepad)](https://htmlpreview.github.io/?https://github.com/Cholifbima/Cholifbima/blob/main/assets/game.html)
 
 *Test your memory with programming language symbols!*
 
@@ -194,7 +194,7 @@ const currentFocus = {
 
 ### 💖 Thanks for visiting my profile!
 
-![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Cholifbima/count.svg)
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
