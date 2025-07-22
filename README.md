@@ -164,8 +164,4 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/Cholifbima/count.svg)
-
-** Tengs **
-
 </div>
