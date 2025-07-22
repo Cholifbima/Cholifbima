@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Cholif Bima
+# Helow fellas
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -16,18 +16,9 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif"/>
-
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **cholifbima@gmail.com**
-- ⚡ Fun fact: **I love coding and coffee!**
 
 <br clear="right"/>
 
-## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -148,35 +139,22 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 Current Focus
 
 <div align="center">
-
-| 🎯 Focus Area | 📋 Details |
-|---------------|------------|
-| 🧠 **Learning** | Machine Learning, Cloud Architecture, DevOps |
-| 🔨 **Building** | Personal Portfolio, Open Source Projects |
-| 📚 **Reading** | Clean Code, System Design |
-| 🎯 **Goals** | Contribute to major open source projects, Build scalable applications |
 
 </div>
 
-## 🎮 Interactive Fun
+
 
 <div align="center">
 
-### 🕹️ Play a Memory Game!
-[![Play Game](https://img.shields.io/badge/🎮_Play_Memory_Game-Click_Here-FF6B6B?style=for-the-badge&logo=gamepad)](https://htmlpreview.github.io/?https://github.com/Cholifbima/Cholifbima/blob/main/assets/game.html)
-
-*Test your memory with programming language symbols!*
 
 </div>
 
-## 🎮 When I'm not coding
+
 
 <div align="center">
 
-🎵 Listening to music | 🎮 Gaming | 📚 Reading tech blogs | ☕ Coffee enthusiast | 🌱 Learning new frameworks
 
 </div>
 
@@ -184,10 +162,10 @@
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Cholifbima/count.svg)
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+** Tengs **
 
 </div>
